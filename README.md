@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Katyayani Agarwal</h1>
-<h3 align="center">A passionate frontend developer from  ghaziabad ,India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katyayani2610&label=Profile%20views&color=0e75b6&style=flat" alt="katyayani2610" /> </p>
 

@@ -8,18 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/katyayaniagarw3" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/katyayaniagarw3?logo=twitter&style=for-the-badge" alt="https://twitter.com/katyayaniagarw3" /></a> </p>
 
-- 🔭 I’m currently working on [Multi Purpose Functionality Application](https://github.com/Katyayani2610/REACT-Multipurposefunctionality)
+
 -  [![An image of @Katyayani2610's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@katyayani2610#)](https://www.holopin.io/@katyayani2610)
-
-- 🌱 I’m currently learning **Html, Css, Javascript, ReactJs, Vuejs, Nodejs, Python, C++**
-
-- 📝 I regularly write articles on [https://medium.com/@katyayaniagarwal265](https://medium.com/@katyayaniagarwal265)
-
-- 💬 Ask me about **Html, Css, Javascript, ReactJs**
-
-- 📫 How to reach me **katyayaniagarwal265@gmail.com**
-
-- ⚡ Fun fact **In addition I am a part time content writer at TEAM EVEREST NEWSLETTER , also passionate for dancing , listening to music and audiobooks , and love for food .**
+ - 📝 I regularly write articles on [https://medium.com/@katyayaniagarwal265](https://medium.com/@katyayaniagarwal265)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -86,6 +77,7 @@
  - **Collaboration**: Experience working in team environments to deliver projects successfully.
  
  ---
+ - ⚡ Fun fact **In addition I am a part time content writer at TEAM EVEREST NEWSLETTER , also passionate for dancing , listening to music and audiobooks , and love for food .**
  
  ## 🔧 How to Use This Profile
  Feel free to explore my projects listed here. You can clone the repositories or follow the instructions in the README files of each project to replicate the work. I am constantly working on improving and adding new projects, so stay tuned for future updates!

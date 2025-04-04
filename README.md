@@ -9,7 +9,13 @@
 <p align="left"> <a href="https://twitter.com/https://twitter.com/katyayaniagarw3" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/katyayaniagarw3?logo=twitter&style=for-the-badge" alt="https://twitter.com/katyayaniagarw3" /></a> </p>
 
 
--  [![An image of @Katyayani2610's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@katyayani2610#)](https://www.holopin.io/@katyayani2610)
+ - ## 📫 How to Reach Me
+ If you have any questions or would like to collaborate on a project, feel free to reach out!
+ 
+ - **Email**: [katyayaniagarwal265@gmail.com](mailto:katyayaniagarwal265@gmail.com)
+ - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/katyayani-a-5355b121a/)
+ - **X (Twitter)**: [X Profile](https://x.com/KatyayaniAgarw3)
+ 
  - 📝 I regularly write articles on [https://medium.com/@katyayaniagarwal265](https://medium.com/@katyayaniagarwal265)
 
 ### Blogs posts
